@@ -1,0 +1,13 @@
+name: intro_rl
+channels:
+    - conda-forge
+dependencies:
+- python=3.6
+- numpy
+- ipykernel
+- matplotlib
+- pandas
+- seaborn
+- pip:
+  - gym
+  - git+https://github.com/JKCooper2/gym-bandits.git
