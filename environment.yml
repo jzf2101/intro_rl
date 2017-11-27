@@ -10,4 +10,4 @@ dependencies:
 - seaborn
 - pip:
   - gym
-  - git+https://github.com/JKCooper2/gym-bandits.git
+  - git+https://github.com/JKCooper2/gym-bandits#egg=gym_bandits
