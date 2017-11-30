@@ -1,4 +1,4 @@
-# A Introduction to RL with Python
+# A Introduction to Reinforcement Learning with Python
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jzf2101/intro_rl/master)
 
